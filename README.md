@@ -31,3 +31,6 @@ Thanks to all who supported and contributed to this project.
 ## License
 This project is licensed under the MIT License.
 
+##Live App
+chech out the app here 
+(https://slang-flash-pal.lovable.app)
